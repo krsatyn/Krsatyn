@@ -15,14 +15,6 @@
 | **Архитектура** | GNN · Transformers · Post-processors · Microservices |
 | **Инфраструктура** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
----
-
-##  Метрики и активность
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
-</p>
 
 ---
 
